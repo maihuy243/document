@@ -1,7 +1,7 @@
 {
   "index_name": "search",
-  "start_urls": ["https://docusaurus.io/"],
-  "sitemap_urls": ["https://docusaurus.io/sitemap.xml"],
+  "start_urls": ["https://https://document-gules.vercel.app/"],
+  "sitemap_urls": ["https://https://document-gules.vercel.app/sitemap.xml"],
   "sitemap_alternate_links": true,
   "stop_urls": ["/tests"],
   "selectors": {
