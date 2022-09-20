@@ -127,6 +127,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      //new
       algolia: {
         appId: "DKHGXOC91Y",
         apiKey: "a1c5c8f3a2e69b7508219840c9d1b71a",
