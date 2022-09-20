@@ -132,6 +132,7 @@ const config = {
         appId: "DKHGXOC91Y",
         apiKey: "a1c5c8f3a2e69b7508219840c9d1b71a",
         indexName: "search",
+        contextualSearch: true,
       },
     }),
 };
